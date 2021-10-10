@@ -1,0 +1,2651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress Pro (formerly Admin 2020)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-18 09:15+0000\n"
+"PO-Revision-Date: 2021-09-07 18:07+0000\n"
+"Last-Translator: Muhannad Bedaiwi <bedaiwimuh@gmail.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: admin2020"
+
+#: modules/admin-overview.php:617
+msgid "# Hex code only (#fff)"
+msgstr "رمز HEX فقط (fff#)"
+
+#: modules/premium/admin-menu-creator.php:369
+msgid "(copy)"
+msgstr "(نسخ)"
+
+#: admin/class-activation.php:138
+msgid "Activate"
+msgstr "تفعيل"
+
+#: admin/class-settings.php:942
+msgid "Active"
+msgstr "مفعّل"
+
+#: modules/admin-overview.php:368
+msgid "Active Plugins"
+msgstr "الإضافات المفعّلة"
+
+#: modules/premium/admin-content.php:2158
+msgid "Add"
+msgstr "أضف"
+
+#: modules/premium/admin-menu-creator.php:975
+#: modules/premium/admin-menu-creator.php:993
+msgid "add"
+msgstr "أضف"
+
+#: modules/admin-overview.php:531
+msgid "Add a custom welcome message here to displayed on the overview page"
+msgstr "أضف عبارة ترحيببية مخصصة لعرضها في صفحة \"نظرة عامة\""
+
+#: modules/admin-overview.php:605
+msgid "Add card"
+msgstr "أضف بطاقة"
+
+#: modules/premium/admin-menu-creator.php:936
+msgid "Add Custom..."
+msgstr "أضف تخصيص ..."
+
+#: modules/premium/admin-advanced.php:169
+msgid "Add html here to be added to every admin page <head> section"
+msgstr "أضف كود HTML هنا ليتم إضافته لكل ترويسة <head> في الصفحات الإدارية"
+
+#: modules/premium/admin-menu-creator.php:197
+msgid "Add New Admin Menu"
+msgstr "إنشاء قائمة إدارية"
+
+#: modules/premium/admin-pages.php:258
+msgid "Add New Admin Page"
+msgstr "إنشاء صفحة إدارية"
+
+#: modules/admin-overview.php:1150
+msgid "Add New Column"
+msgstr "أضف عمود"
+
+#: modules/premium/admin-folders.php:686
+msgid "Add New Folder"
+msgstr "إنشاء مجلد جديد"
+
+#: admin/class-settings.php:1084 admin/class-settings.php:1295
+msgid "Add Script"
+msgstr "أضف كود Script"
+
+#: modules/premium/admin-advanced.php:160
+msgid "Add scripts to the head of every admin page"
+msgstr "أضف كود Script إلى الترويسة في كافة الصفحات الإدارية"
+
+#: modules/premium/admin-menu-creator.php:1064
+msgid "Add some menu items from the left toolbar to get started"
+msgstr "أضف بعض عناصر القائمة المتاحة من شريط الأدوات الأيمن للمعاينة"
+
+#: modules/premium/admin-pages.php:127
+msgid ""
+"Admin 2020 admin pages will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل الصفحات الإدارية لدى الأعضاء والرتب التي تحددها"
+
+#: modules/premium/admin-content.php:166
+msgid "Admin 2020 content page disabled for"
+msgstr "تعطيل صفحة المحتوى لدى"
+
+#: modules/premium/admin-content.php:167
+msgid ""
+"Admin 2020 Content Page will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل صفحة المحتوى لدى الأعضاء والرتب التي تحددها"
+
+#: admin/class-settings.php:1505
+msgid ""
+"Admin 2020 licence is active. To remove licence or change licence click "
+"remove."
+msgstr ""
+"ترخيص Admin 2020 مفعّل،لإزالة أو تغيير الترخيص قم بالنقر على \" إزالة "
+"الترخيص \""
+
+#: modules/admin-bar.php:204
+msgid "Admin Bar"
+msgstr "شريط الأدوات"
+
+#: modules/admin-bar.php:225
+msgid "Admin Bar Disabled For"
+msgstr "تعطيل شريط الأدوات لدى"
+
+#: modules/premium/admin-pages.php:100
+msgid "Admin Pages"
+msgstr "الصفحات الإدارية"
+
+#: modules/premium/admin-pages.php:126
+msgid "Admin Pages Disabled for"
+msgstr "تعطيل الصفحات الإدارية لدى"
+
+#: modules/premium/admin-advanced.php:113
+msgid "Advanced"
+msgstr "متقدمة"
+
+#: modules/premium/admin-advanced.php:133
+msgid "Advanced module disabled for"
+msgstr "تعطيل الإعدادات المتقدمة لدى"
+
+#: modules/admin-overview.php:101 modules/admin-overview.php:268
+#: modules/admin-woocommerce.php:209
+#: modules/premium/admin-overview-cards.php:278
+#: modules/premium/admin-overview-cards.php:428
+msgid "ago"
+msgstr "مضى"
+
+#: modules/premium/admin-content.php:2264
+#: modules/premium/admin-content.php:2766 modules/premium/admin-folders.php:952
+msgid "All"
+msgstr "الكل"
+
+#: modules/premium/admin-menu-creator.php:201
+msgid "All Admin Menus"
+msgstr "كافة القوائم الإدارية"
+
+#: modules/premium/admin-pages.php:262
+msgid "All Admin Pages"
+msgstr "كافة الصفحات الإدارية"
+
+#: modules/premium/admin-folders.php:690
+msgid "All Folders"
+msgstr "كافة المجلدات"
+
+#: modules/premium/admin-content.php:2424
+msgid "Alt"
+msgstr "النص البديل"
+
+#: modules/premium/admin-content.php:2129
+msgid "Alt Tag (Attachments only)"
+msgstr "النص البديل (للمرفقات فقط)"
+
+#: modules/premium/admin-content.php:2423
+msgid "Alt Text"
+msgstr "النص البديل"
+
+#: modules/admin-analytics.php:767 modules/admin-analytics.php:834
+#: modules/admin-analytics.php:843 modules/admin-analytics.php:852
+#: modules/admin-analytics.php:861 modules/admin-analytics.php:870
+#: modules/admin-analytics.php:879 modules/admin-analytics.php:888
+#: modules/admin-analytics.php:897 modules/admin-analytics.php:906
+msgid "Analytics"
+msgstr "التحليلات والإحصاءات"
+
+#: modules/admin-analytics.php:116
+msgid "Analytics account connected"
+msgstr "مرتبط بحساب Google Analytics"
+
+#: modules/admin-analytics.php:80
+msgid "Analytics account removed"
+msgstr "تمت إزالة حساب التحليلات"
+
+#: modules/admin-analytics.php:788
+msgid ""
+"Analytics will be disabled on the overview page for any users or roles you "
+"select"
+msgstr ""
+"سيتم تعطيل التحليلات في صفحة \"نظرة عامة\" لدى الأعضاء والرتب التي تحددها"
+
+#: modules/admin-overview.php:523
+msgid ""
+"Any role or user chosen here will be able to edit the overview page. If non "
+"are chosen it will fall baxck to administrators only"
+msgstr ""
+"سيتمكن أي رتبة أو عضو يتم اختياره هنا من تحرير صفحة \"نظرة عامة\"، وفي حين "
+"لم يتم اختيار أي رتبة أو عضو، سوف يتمكن الإداريين فقط من تحرير هذه الصفحة."
+
+#: modules/admin-overview.php:648
+msgid ""
+"Are you sure you want to reset the overview page to the default layout? "
+"There is no undo."
+msgstr ""
+"هل أنت متأكد من رغبتك بإعادة تعيين صفحة \" نظرة عامة \" إلى التخطيط "
+"الافتراضي؟ لن تتمكن من التراجع بعد التأكيد."
+
+#: modules/premium/admin-menu-editor.php:294
+msgid ""
+"Are you sure you want to reset your menu back to default? There is no undo"
+msgstr ""
+"هل أنت متأكد من أنك تريد إعادة تعيين القائمة إلى الوضع الافتراضي؟ لا يمكن "
+"الرجوع بعد إعادة التعيين"
+
+#: modules/premium/admin-content.php:2122
+msgid "Attribute to rename"
+msgstr "السمة المراد إعادة تسميتها"
+
+#: modules/premium/admin-content.php:759
+msgid "Attributes Updated"
+msgstr "تم تحديث السمات"
+
+#: modules/premium/admin-content.php:2370
+#: modules/premium/admin-content.php:3092
+msgid "Author"
+msgstr "الكاتب"
+
+#: modules/premium/admin-menu-creator.php:945
+msgid "Available Menu Items"
+msgstr "عناصر القائمة المتاحة"
+
+#: modules/admin-woocommerce.php:140
+msgid "Average Order Value"
+msgstr "متوسط ​​قيمة الطلب الواحد"
+
+#: modules/premium/admin-menu-creator.php:1241
+msgid "Back to all menus"
+msgstr "الرجوع إلى كافة القوائم"
+
+#: modules/premium/admin-content.php:2350
+msgid "Back to content"
+msgstr "العودة إلى صفحة المحتوى"
+
+#: modules/admin-menu.php:121 modules/admin-theme.php:142
+msgid "Background Color (Dark Mode)"
+msgstr "لون الخلفية (الوضع الداكن)"
+
+#: modules/admin-bar.php:258
+msgid "Background color (dark mode)"
+msgstr "لون الخلفية (الوضع الداكن)"
+
+#: modules/admin-menu.php:113 modules/admin-theme.php:134
+msgid "Background Color (Light Mode)"
+msgstr "لون الخلفية (الوضع الفاتح)"
+
+#: modules/admin-bar.php:249
+msgid "Background color (light mode)"
+msgstr "لون الخلفية (الوضع الفاتح)"
+
+#: modules/admin-login.php:124
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: modules/admin-overview.php:626
+msgid "Bar"
+msgstr "شريطي عمودي"
+
+#: modules/admin-overview.php:621
+msgid "Bar Chart"
+msgstr "رسم بياني شريطي"
+
+#: modules/premium/admin-content.php:2112
+#: modules/premium/admin-content.php:3362
+msgid "Batch Rename"
+msgstr "إعادة تسمية متعددة"
+
+#: modules/admin-analytics.php:867
+msgid "Bounce Rate"
+msgstr "معدل الارتداد"
+
+#: modules/premium/admin-overview-cards.php:435
+msgid "by"
+msgstr "بواسطة"
+
+#: modules/admin-overview.php:737
+msgid "calendar"
+msgstr "التقويم"
+
+#: modules/admin-menu.php:568 modules/admin-menu.php:744
+#: modules/premium/admin-content.php:2702
+#: modules/premium/admin-content.php:2748 modules/premium/admin-folders.php:888
+#: modules/premium/admin-folders.php:934
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: modules/premium/admin-content.php:2428
+#: modules/premium/admin-content.php:2429
+msgid "Caption"
+msgstr "كلمات توضيحية"
+
+#: modules/admin-overview.php:615
+msgid "Card Added"
+msgstr "تم إضافة البطاقة"
+
+#: modules/admin-overview.php:616
+msgid "Card Background colour"
+msgstr "لون خلفية البطاقة"
+
+#: modules/admin-overview.php:588
+msgid "Card width"
+msgstr "عرض البطاقة"
+
+#: modules/premium/admin-content.php:2063
+#: modules/premium/admin-content.php:2476
+#: modules/premium/admin-content.php:2480
+#: modules/premium/admin-content.php:2864
+#: modules/premium/admin-content.php:2867
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: modules/premium/admin-content.php:3368
+msgid "Categories & Tags"
+msgstr "التصنيفات والوسوم"
+
+#: modules/admin-overview.php:630
+msgid "Change"
+msgstr "تغيير"
+
+#: modules/premium/admin-menu-creator.php:1213
+msgid "Change Icon..."
+msgstr "تغيير الأيقونة..."
+
+#: modules/premium/admin-menu-editor.php:546
+#: modules/premium/admin-menu-editor.php:681
+msgid "Change Link"
+msgstr "تغيير الرابط"
+
+#: modules/admin-overview.php:619
+msgid "Chart Type"
+msgstr "نوع الرسم البياني"
+
+#: admin/class-update.php:58
+msgid "Check for updates"
+msgstr "تحقق من وجود تحديثات"
+
+#: modules/premium/admin-menu-editor.php:553
+msgid "Choose Icon"
+msgstr "اختر أيقونة"
+
+#: admin/class-settings.php:1000 admin/class-settings.php:1212
+msgid "Choose Image"
+msgstr "اختر صورة"
+
+#: admin/class-settings.php:1042 admin/class-settings.php:1253
+msgid "Choose posts and CPTs"
+msgstr "اختر أنواع المنشورات"
+
+#: admin/class-settings.php:1032 admin/class-settings.php:1243
+msgid "Choose users / roles"
+msgstr "اختر الرتب أو الأعضاء ..."
+
+#: modules/premium/admin-menu-creator.php:923
+msgid "Choose users or roles..."
+msgstr "اختر الرتب أو الأعضاء ..."
+
+#: admin/class-settings.php:109
+msgid "Choose your desired font from google fonts."
+msgstr "اختر الخط الذي تريده من خطوط جوجل."
+
+#: admin/class-settings.php:1390
+msgid "Clear"
+msgstr "مسح"
+
+#: modules/admin-menu.php:576 modules/admin-menu.php:752
+msgid "Clear Favourites"
+msgstr "إزالة القوائم المفضلة"
+
+#: modules/premium/admin-content.php:2883
+msgid "Clear Filters"
+msgstr "إزالة التصفية"
+
+#: modules/premium/admin-content.php:3385
+msgid "Clear Selection"
+msgstr "إزالة التحديد"
+
+#: modules/premium/admin-content.php:1131 modules/premium/admin-folders.php:293
+msgid "Colour is required"
+msgstr "اختيار اللون مطلوب"
+
+#: modules/admin-overview.php:604
+msgid "Column Added"
+msgstr "تم إضافة العمود"
+
+#: modules/admin-overview.php:590
+msgid "Column settings"
+msgstr "إعدادات العمود"
+
+#: modules/admin-overview.php:589
+msgid "Column width"
+msgstr "عرض العمود"
+
+#: modules/premium/admin-content.php:2605
+msgid "Columns"
+msgstr "الأعمدة"
+
+#: modules/admin-woocommerce.php:125 modules/admin-woocommerce.php:134
+#: modules/admin-woocommerce.php:143 modules/admin-woocommerce.php:152
+#: modules/admin-woocommerce.php:161
+msgid "Commerce"
+msgstr "تجارة"
+
+#: modules/premium/admin-content.php:89 modules/premium/admin-content.php:1997
+#: modules/premium/admin-content.php:2255
+msgid "Content"
+msgstr "المحتوى"
+
+#: modules/premium/admin-content.php:1312 modules/premium/admin-folders.php:85
+msgid "Content moved"
+msgstr "تم نقل المحتوى"
+
+#: modules/premium/admin-content.php:109
+msgid "Content Page disabled for"
+msgstr "تعطيل صفحة المحتوى لدى"
+
+#: modules/premium/admin-content.php:110
+msgid "Content Page will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل صفحة المحتوى لدى الأعضاء والرتب التي تحددها."
+
+#: modules/admin-bar.php:1319
+msgid "Core"
+msgstr "الإصدار"
+
+#: modules/admin-overview.php:358
+msgid "Core version"
+msgstr "إصدار ووردبريس"
+
+#: modules/admin-overview.php:628
+msgid "Country"
+msgstr "الدولة"
+
+#: modules/admin-bar.php:1539 modules/premium/admin-content.php:2705
+#: modules/premium/admin-folders.php:891
+msgid "Create"
+msgstr "إنشاء"
+
+#: modules/premium/admin-content.php:3415
+msgid "Create New View"
+msgstr "إنشاء قائمة عرض جديدة لعوامل التصفية المحددة"
+
+#: modules/premium/admin-menu-creator.php:747
+msgid "Create your first admin menu"
+msgstr "أنشئ قائمتك الإدارية الأولى"
+
+#: modules/premium/admin-content.php:2374
+msgid "Created On"
+msgstr "أنشئ في"
+
+#: modules/admin-bar.php:206
+msgid ""
+"Creates new admin bar, adds user off canvas menu and builds global search"
+msgstr ""
+"يمكنك إنشاء شريط أدوات مخصص، وإضافة قائمة جانبية متحركة لعرض بيانات العضو "
+"والإشعارات، وإنشاء محرك بحث للعناصر داخل لوحة التحكم."
+
+#: modules/admin-menu.php:87
+msgid "Creates new admin menu."
+msgstr "تنشئ قوائم إدارية جديدة"
+
+#: modules/premium/admin-advanced.php:115
+msgid "Creates options for adding custom CSS and JS."
+msgstr "يمكّنك من تخصيص أكواد CSS و JS."
+
+#: modules/premium/admin-pages.php:102
+msgid ""
+"Creates the admin pages editor, allowing you to create new top level admin "
+"pages and their content"
+msgstr ""
+"تنشئ محرر الصفحات الإدارية، مما يسمح لك بإنشاء صفحات إدارية رئيسية وفرعية، "
+"وإدارة محتواها."
+
+#: modules/premium/admin-content.php:91
+msgid ""
+"Creates the content page where you can manage all of your assets, posts and "
+"pages from one place."
+msgstr ""
+"يمكّنك من إنشاء صفحة المحتوى حيث يمكنك إدارة جميع محتويات الموقع، "
+"والمنشورات، والصفحات من مكان واحد."
+
+#: modules/premium/admin-folders.php:529
+msgid "Creates the folder system for the content page and media page / modals."
+msgstr "يمكّنك من إنشاء نظام مجلدات لصفحة المحتوى وصفحة الوسائط."
+
+#: modules/admin-analytics.php:769
+msgid "Creates the google analytics cards for the overview page."
+msgstr "يمكّنك من إنشاء بطاقات تحليلات جوجل لصفحة \"نظرة عامة\"."
+
+#: modules/admin-theme.php:108
+msgid ""
+"Creates the main theme for UiPress Disables default WordPress theme and "
+"applies UiPress."
+msgstr ""
+"يمكّنك من إنشاء قالبك الخاص للوحة التحكم بواسطة UiPress، وتعطيل القالب "
+"الإفتراضي للوحة التحكم الخاص بووردبريس، وتفعيل قالب UiPress المخصص."
+
+#: modules/premium/admin-menu-creator.php:591
+msgid ""
+"Creates the menu creator and allows you to create completely custom admin "
+"menus. Only works with the Uipress admin menu module."
+msgstr ""
+"تنشئ محرر القائمة الإدارية، ويسمح لك بإنشاء قوائم إدارية مخصصة. يعمل فقط عن "
+"تفعيل وحدة القائمة الإدارية لـ UiPress"
+
+#: modules/premium/admin-menu-editor.php:109
+msgid ""
+"Creates the menu editor and allows for rearanging, renaming and removal of "
+"menu items."
+msgstr ""
+"يمكّنك من تفعيل محرر القائمة، ليسمح لك بإعادة ترتيب عناصر القائمة، وإعادة "
+"تسميتها، وإزالتها."
+
+#: modules/admin-overview.php:496
+msgid ""
+"Creates the overview page. If this is disabled, you will not be able to see "
+"analytics cards or woocommerce cards."
+msgstr ""
+"يمكّنك من إنشاء صفحة \"نظرة عامة\". في حين عدم تفعيله، فلن تتمكن من رؤية "
+"بطاقات تحليلات الموقع أو بطاقات المتجر \"ووكومرس\"."
+
+#: modules/admin-woocommerce.php:82
+msgid "Creates the woocommerce cards for the overview page."
+msgstr "يمكّنك من إضافة بطاقات المتجر \"ووكومرس\" في صفحة نظرة عامة."
+
+#: modules/admin-overview.php:439
+msgid "Critical"
+msgstr "مشاكل حرجة"
+
+#: modules/premium/admin-advanced.php:142
+msgid ""
+"CSS added here will be loaded on every admin page as well as the login page"
+msgstr ""
+"سيتم تحميل أكواد الـ CSS المضافة هنا في كل صفحة إدارية بالإضافة إلى صفحة "
+"تسجيل الدخول"
+
+#: modules/premium/admin-content.php:2221
+msgid "Current"
+msgstr "الحالي"
+
+#: modules/premium/admin-content.php:2689
+#: modules/premium/admin-content.php:2735 modules/premium/admin-folders.php:875
+#: modules/premium/admin-folders.php:921
+msgid "Custom"
+msgstr "مخصص"
+
+#: modules/premium/admin-content.php:2695
+#: modules/premium/admin-content.php:2741 modules/premium/admin-folders.php:881
+#: modules/premium/admin-folders.php:927
+msgid "Custom (hex)"
+msgstr "رمز اللون HEX#"
+
+#: modules/premium/admin-advanced.php:141
+msgid "Custom CSS"
+msgstr "كود CSS مخصص"
+
+#: modules/premium/admin-advanced.php:134
+msgid "Custom CSS and JS will not load for the selected roles and users."
+msgstr ""
+"لن يتم تحميل وعرض أكواد CSS و JS المخصصة لدى الأعضاء والرتب المختارة هنا."
+
+#: modules/admin-overview.php:763
+msgid "Custom HTML"
+msgstr "كود HTML مخصص"
+
+#: modules/premium/admin-advanced.php:150
+msgid "Custom JS"
+msgstr "كود JS مخصص"
+
+#: modules/premium/admin-menu-creator.php:941
+msgid "Custom Link"
+msgstr "رابط مخصص"
+
+#: modules/admin-overview.php:530
+msgid "Custom welcome message"
+msgstr "عبارة ترحيبية مخصصة"
+
+#: admin/class-settings.php:1114 admin/class-settings.php:1325
+msgid "Custom welcome message..."
+msgstr "عبارة ترحيبية مخصصة ..."
+
+#: modules/admin-overview.php:764
+msgid "custom-html"
+msgstr "HTML مخصص"
+
+#: modules/admin-overview.php:746
+msgid "custom-video"
+msgstr "فيديو مخصص"
+
+#: modules/admin-bar.php:1214 modules/admin-login.php:133
+msgid "Dark Mode"
+msgstr "الوضع الداكن"
+
+#: modules/admin-bar.php:1524
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: modules/admin-overview.php:177
+msgid "Dashboard settings reset"
+msgstr "إعادة تعيين إعدادات لوحة التحكم"
+
+#: modules/admin-overview.php:157
+msgid "Dashboard settings saved"
+msgstr "تم حفظ إعدادات لوحة التحكم"
+
+#: modules/admin-overview.php:736 modules/premium/admin-content.php:3096
+#: modules/premium/admin-menu-creator.php:763
+msgid "Date"
+msgstr "التاريخ"
+
+#: modules/premium/admin-content.php:352 modules/premium/admin-content.php:2831
+msgid "Date Created"
+msgstr "تاريخ الإنشاء"
+
+#: modules/premium/admin-content.php:2184
+msgid "Date Format"
+msgstr "تنسيق التاريخ"
+
+#: modules/admin-overview.php:594
+msgid "day range"
+msgstr "أيام المحددة"
+
+#: modules/admin-overview.php:623 modules/premium/admin-overview-cards.php:91
+#: modules/premium/admin-overview-cards.php:150
+#: modules/premium/admin-overview-cards.php:207
+msgid "days"
+msgstr "أيام"
+
+#: modules/premium/admin-content.php:2500
+#: modules/premium/admin-content.php:3295
+#: modules/premium/admin-menu-creator.php:835
+msgid "Delete"
+msgstr "حذف"
+
+#: modules/admin-overview.php:592
+msgid "Delete Column"
+msgstr "حذف العمود"
+
+#: modules/premium/admin-content.php:2660 modules/premium/admin-folders.php:846
+msgid "Delete Folder"
+msgstr "حذف المجلد"
+
+#: modules/premium/admin-content.php:3207
+msgid "Delete Item"
+msgstr "إزالة المنشور"
+
+#: modules/premium/admin-content.php:3374
+msgid "Delete selected"
+msgstr "إزالة العناصر المحددة"
+
+#: modules/premium/admin-content.php:2433
+#: modules/premium/admin-content.php:2434
+msgid "Description"
+msgstr "الوصف"
+
+#: modules/premium/admin-folders.php:697
+#: modules/premium/admin-menu-creator.php:208
+#: modules/premium/admin-pages.php:269
+msgid "Description."
+msgstr "الوصف."
+
+#: modules/premium/admin-content.php:2366
+msgid "Details"
+msgstr "التفاصيل"
+
+#: modules/admin-overview.php:463
+msgid "Device Visits"
+msgstr "الزيارات حسب الجهاز"
+
+#: modules/premium/admin-content.php:2392
+msgid "Dimensions"
+msgstr "الأبعاد"
+
+#: admin/class-activation.php:166
+msgid "Dimiss"
+msgstr "تجاهل"
+
+#: modules/admin-bar.php:283
+msgid "Disable Create Button"
+msgstr "تعطيل زر \"إنشاء\""
+
+#: modules/admin-bar.php:323
+msgid "Disable Notification Center"
+msgstr "تعطيل مركز الإشعارات"
+
+#: modules/admin-bar.php:275 modules/admin-menu.php:130
+msgid "Disable Search"
+msgstr "تعطيل البحث"
+
+#: modules/admin-bar.php:291
+msgid "Disable View Website Button"
+msgstr "تعطيل زر \"زيارة الموقع\""
+
+#: modules/admin-menu.php:131
+msgid "Disables admin menu search."
+msgstr "يمكّنك من تعطيل شريط البحث في القائمة الإدارية"
+
+#: modules/admin-bar.php:268
+msgid ""
+"Disables legacy links on left side of admin bar for all users. Also hides "
+"the user preference."
+msgstr ""
+"يمكّنك من تعطيل عناصر الجزء الأيمن من شريط الأدوات لدى كافة الأعضاء. ويخفي "
+"أيضا تفضيلات المستخدم"
+
+#: modules/admin-bar.php:276
+msgid "Disables search icon and global search function from admin bar."
+msgstr "يمكنك تعطيل أيقونة وخانة البحث من شريط الأدوات"
+
+#: modules/admin-bar.php:284
+msgid "Disables the 'create' button in the admin bar."
+msgstr "يمكّنك من إخفاء زر \"إنشاء\" من شريط الأدوات"
+
+#: modules/admin-bar.php:292
+msgid "Disables the view website link button in the admin bar."
+msgstr "تعطيل زر زيارة الموقع في شريط الأدوات."
+
+#: modules/admin-overview.php:1062
+msgid "Disconnect Analytics"
+msgstr "إلغاء ربط الحساب"
+
+#: modules/admin-woocommerce.php:142
+msgid "Display average order value in your store within the date range."
+msgstr "يمكّنك من عرض متوسط قيمة الطلب في المتجر خلال فترة زمنية محددة."
+
+#: modules/admin-overview.php:702
+msgid "Display posts, pages and CPTs published within the date range."
+msgstr ""
+"يمكّنك من عرض المقالات والصفحات وأنواع المنشورات الأخرى التي تم نشرها خلال "
+"فترة زمنية محددة."
+
+#: modules/admin-woocommerce.php:151
+msgid "Display recent orders from your store within the date range."
+msgstr "يمكّنك من عرض آخر الطلبات في المتجر خلال فترة زمنية محددة."
+
+#: modules/admin-analytics.php:869
+msgid "Display site bounce rate within the date range."
+msgstr "يمكّنك من عرض معدل الارتداد خلال فترة زمنية محددة."
+
+#: modules/admin-analytics.php:878
+msgid "Display site session duration within the date range."
+msgstr "يمكّنك من عرض متوسط مدة الجلسة في الموقع خلال فترة زمنية محددة."
+
+#: modules/admin-analytics.php:860
+msgid "Display site usage by device within the date range."
+msgstr ""
+"يمكّنك من عرض بيانات الأجهزة الأكثر استخداما في تصفح الموقع خلال فترة زمنية "
+"محددة."
+
+#: modules/admin-woocommerce.php:160
+msgid "Display top selling products from your store within the date range."
+msgstr "يمكّنك من عرض الدول الأكثر زيارة للموقع خلال فترة زمنية محددة."
+
+#: modules/admin-woocommerce.php:133
+msgid "Display total orders in your store within the date range."
+msgstr "يمكّنك من عرض إجمالي الطلبات في المتجر خلال فترة زمنية محددة."
+
+#: modules/admin-woocommerce.php:124
+msgid "Display total sales in your store within the date range."
+msgstr ""
+"يمكّنك من عرض إجمالي مبيعات المتجر خلال فترة زمنية محددة.\n"
+
+#: modules/admin-analytics.php:842
+msgid "Display website page speed within the date range."
+msgstr "يمكّنك من عرض سرعة الموقع خلال فترة زمنية محددة."
+
+#: modules/admin-analytics.php:833
+msgid "Display website page views within the date range."
+msgstr "يمكّنك من عرض إحصائيات مشاهدات صفحات الموقع خلال فترة زمنية محددة."
+
+#: modules/admin-analytics.php:851
+msgid "Display website users within the date range."
+msgstr "يمكّنك من عرض عدد زوار الموقع خلال فترة زمنية محددة."
+
+#: modules/admin-overview.php:747
+msgid "Displays a custom video"
+msgstr "يمكّنك من عرض فيديو مخصص"
+
+#: modules/admin-analytics.php:887
+msgid "Displays country user data within the date range."
+msgstr "يمكّنك من عرض الدول الأكثر زيارة للموقع خلال فترة زمنية محددة."
+
+#: modules/admin-overview.php:738
+msgid "Displays current time and date"
+msgstr "يمكّنك من عرض الوقت والتاريخ"
+
+#: modules/admin-overview.php:720
+msgid "Displays info our about your cms and server setup."
+msgstr "يمكّنك من عرض معلومات حول نظام إدارة محتوى الموقع والخادم"
+
+#: modules/admin-overview.php:729
+msgid "Displays info our about your sites health."
+msgstr "يمكّنك من عرض معلومات حول صحة الموقع"
+
+#: modules/admin-overview.php:711
+msgid ""
+"Displays total comments and recent comments published within the date range."
+msgstr ""
+"يمكّنك من عرض عدد التعليقات واستعراض التعليقات الأخيرة خلال فترة زمنية محددة."
+"\n"
+
+#: modules/admin-analytics.php:905
+msgid "Displays traffic for most popular site pages within the date range."
+msgstr "يمكّنك من عرض أكثر صفحات الموقع زيارةً خلال فترة زمنية محددة."
+
+#: modules/admin-analytics.php:896
+msgid "Displays traffic source info within the date range."
+msgstr "يمكّنك من عرض مصادر الزيارات خلال فترة زمنية محددة."
+
+#: modules/premium/admin-menu-creator.php:940
+msgid "Divider"
+msgstr "فاصل"
+
+#: modules/admin-bar.php:1388
+msgid "Don't show again"
+msgstr "عدم العرض مجددًا"
+
+#: modules/admin-overview.php:624
+msgid "Doughnut"
+msgstr "دائري مجوف"
+
+#: modules/premium/admin-content.php:3196
+#: modules/premium/admin-menu-creator.php:814
+msgid "Duplicate"
+msgstr "تكرار"
+
+#: modules/admin-bar.php:1062 modules/premium/admin-content.php:3184
+#: modules/premium/admin-content.php:3289
+#: modules/premium/admin-menu-creator.php:807
+msgid "Edit"
+msgstr "تعديل"
+
+#: modules/premium/admin-menu-creator.php:199
+msgid "Edit Admin Menu"
+msgstr "تعديل القائمة الإدارية"
+
+#: modules/premium/admin-pages.php:260
+msgid "Edit Admin Page"
+msgstr "تعديل الصفحة الإدارية"
+
+#: modules/premium/admin-menu-editor.php:236
+msgid ""
+"Edit each menu item's name, link, icon and visibility. Drag and drop to "
+"rearange the menu. Changes will take effect after page refresh."
+msgstr ""
+"يمكنك تحرير اسم كل عنصر بالقائمة ، ورابطه ، والأيقونة ، وإمكانية ظهوره في "
+"القائمة. قم بالسحب والإفلات لإعادة ترتيب القائمة. وستظهر التغييرات بعد تحديث "
+"الصفحة."
+
+#: modules/premium/admin-folders.php:688
+msgid "Edit Folder"
+msgstr "تعديل المجلد"
+
+#: modules/premium/admin-content.php:2514
+msgid "Edit Image"
+msgstr "تعديل الصورة"
+
+#: modules/premium/admin-menu-creator.php:1193
+msgid "Edit Menu Item"
+msgstr "تعديل عناصر القائمة"
+
+#: modules/admin-bar.php:1265
+msgid "Edit profile"
+msgstr "تعديل الحساب"
+
+#: modules/admin-overview.php:1051
+msgid "Editing Mode"
+msgstr "وضع التعديل"
+
+#: modules/admin-overview.php:612
+msgid "Embed Type"
+msgstr "نوع التضمين"
+
+#: modules/premium/admin-content.php:125 modules/premium/admin-content.php:239
+msgid "Enable private library mode"
+msgstr "تفعيل وضع المكتبة الخاصة"
+
+#: modules/premium/admin-advanced.php:159
+msgid "Enqueue scripts to admin area"
+msgstr "تضمين أكواد Script في لوحة التحكم"
+
+#: admin/class-activation.php:135
+msgid "Enter your licence key"
+msgstr "أدخل مفتاح الترخيص الخاص بك"
+
+#: modules/admin-bar.php:1308
+msgid "Everything is up to date"
+msgstr "جميع العناصر محدّثة"
+
+#: modules/premium/admin-menu-creator.php:915
+msgid "Exclusive"
+msgstr "حصري"
+
+#: modules/admin-overview.php:988 modules/admin-overview.php:1036
+msgid "Exit edit mode"
+msgstr "إغلاق وضع التعديل"
+
+#: modules/premium/admin-menu-creator.php:821
+#: modules/premium/admin-menu-creator.php:1259
+msgid "Export"
+msgstr "تصدير"
+
+#: modules/admin-overview.php:1073
+msgid "Export Layout"
+msgstr "تصدير التخطيط"
+
+#: modules/premium/admin-menu-editor.php:275
+msgid "Export Menu"
+msgstr "تصدير القائمة"
+
+#: admin/class-settings.php:1405
+msgid "Export Settings"
+msgstr "تصدير الإعدادات"
+
+#: modules/premium/admin-content.php:491
+msgid "Failed to upload file"
+msgstr "فشل رفع الملف"
+
+#: modules/premium/admin-content.php:356
+msgid "File Extension (attachments only)"
+msgstr "امتداد الملف (المرفقات فقط)"
+
+#: modules/admin-overview.php:644
+msgid "File is to big"
+msgstr "حجم الملف جدا كبير"
+
+#: modules/premium/admin-content.php:2402
+msgid "File Name"
+msgstr "عنوان الملف"
+
+#: modules/premium/admin-content.php:2397
+msgid "File Size"
+msgstr "حجم الملف"
+
+#: modules/premium/admin-content.php:2145
+msgid "Filename Structure"
+msgstr "بنية اسم الملف"
+
+#: modules/premium/admin-content.php:2566
+msgid "Filters"
+msgstr "التصفية"
+
+#: modules/premium/admin-content.php:2190
+msgid "Find"
+msgstr "بحث"
+
+#: modules/premium/admin-content.php:368
+msgid "Find and Replace"
+msgstr "بحث واستبدال"
+
+#: modules/premium/admin-content.php:2673
+#: modules/premium/admin-content.php:2719 modules/premium/admin-folders.php:859
+#: modules/premium/admin-folders.php:905
+msgid "Folder Colour"
+msgstr "لون المجلد"
+
+#: modules/premium/admin-content.php:1158 modules/premium/admin-folders.php:320
+msgid "Folder created"
+msgstr "تم إنشاء المجلد"
+
+#: modules/premium/admin-content.php:1374 modules/premium/admin-folders.php:262
+msgid "Folder deleted"
+msgstr "تم حذف المجلد"
+
+#: modules/premium/admin-content.php:1275 modules/premium/admin-folders.php:156
+msgid "Folder moved"
+msgstr "تم نقل المجلد"
+
+#: modules/premium/admin-content.php:2668
+#: modules/premium/admin-content.php:2714
+#: modules/premium/admin-content.php:2715 modules/premium/admin-folders.php:854
+#: modules/premium/admin-folders.php:900 modules/premium/admin-folders.php:901
+msgid "Folder Name"
+msgstr "عنوان المجلد"
+
+#: modules/premium/admin-folders.php:548
+msgid "Folder system will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل نظام المجلدات لدى الأعضاء والرتب التي تحددها"
+
+#: modules/premium/admin-content.php:1203 modules/premium/admin-folders.php:200
+msgid "Folder updated"
+msgstr "تم تحديث المجلد"
+
+#: modules/premium/admin-folders.php:527 modules/premium/admin-folders.php:738
+msgid "Folders"
+msgstr "المجلدات"
+
+#: modules/premium/admin-folders.php:547 modules/premium/admin-folders.php:579
+msgid "Folders Disabled for"
+msgstr "تعطيل المجلدات لدى"
+
+#: modules/premium/admin-folders.php:580
+msgid "Folders will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل المجلدات لدى الأعضاء والرتب التي تحددها"
+
+#: admin/class-settings.php:1062 admin/class-settings.php:1273
+msgid "font"
+msgstr "الخط"
+
+#: admin/class-settings.php:66 modules/admin-overview.php:703
+#: modules/admin-overview.php:712 modules/admin-overview.php:721
+#: modules/admin-overview.php:730 modules/admin-overview.php:739
+#: modules/admin-overview.php:748 modules/admin-overview.php:757
+#: modules/admin-overview.php:766
+msgid "General"
+msgstr "عام"
+
+#: admin/class-settings.php:68
+msgid "General settings for UIPress"
+msgstr "الإعدادات العامة لـ UiPress"
+
+#: admin/class-settings.php:108
+msgid "Global font"
+msgstr "الخط"
+
+#: modules/admin-theme.php:167
+msgid "Global Padding"
+msgstr "الهوامش الداخلية (Padding)"
+
+#: modules/admin-analytics.php:787
+msgid "Google Analytics disabled for"
+msgstr "تعطيل تحليلات قوقل لدى"
+
+#: modules/premium/admin-content.php:2585
+msgid "Grid Mode"
+msgstr "شبكي"
+
+#: modules/admin-overview.php:828
+msgid "Hello"
+msgstr "مرحبا"
+
+#: admin/class-settings.php:1023
+msgid "Hex code"
+msgstr "رمز HEX#"
+
+#: modules/premium/admin-menu-editor.php:388
+#: modules/premium/admin-menu-editor.php:515
+#: modules/premium/admin-menu-editor.php:648
+msgid "Hidden For Roles"
+msgstr "إخفاء لدى"
+
+#: modules/admin-bar.php:1397
+msgid "hidden notification"
+msgstr "إشعار مخفي"
+
+#: modules/admin-bar.php:1398
+msgid "hidden notifications"
+msgstr "الإشعارات المخفية"
+
+#: modules/admin-bar.php:267
+msgid "Hide admin bar links (left side)"
+msgstr "إخفاء عناصر الجزء الأيمن من شريط الأدوات"
+
+#: modules/admin-bar.php:1236
+msgid "Hide admin bar links (left)"
+msgstr "إخفاء عناصر الجزء الأيمن من شريط الأدوات"
+
+#: modules/admin-bar.php:315
+msgid "Hide admin bar on front end"
+msgstr "إخفاء شريط الأدوات من واجهة الموقع"
+
+#: modules/admin-overview.php:635
+msgid "Hide Chart"
+msgstr "إخفاء الرسم البياني"
+
+#: modules/admin-bar.php:363
+msgid "Hide edit profile button"
+msgstr "إخفاء زر تعديل الحساب"
+
+#: modules/admin-overview.php:632
+msgid "Hide Map"
+msgstr "إخفاء الخريطة"
+
+#: modules/admin-menu.php:912
+msgid "Hide menu icons"
+msgstr "إخفاء أيقونات القائمة"
+
+#: modules/admin-overview.php:627 modules/admin-overview.php:634
+msgid "Horizontal Bar"
+msgstr "شريطي أفقي"
+
+#: admin/class-settings.php:1107 admin/class-settings.php:1318
+#: modules/admin-overview.php:614
+msgid "HTML"
+msgstr "HTML"
+
+#: modules/premium/admin-advanced.php:168
+msgid "HTML for head"
+msgstr "أكواد مخصصة لترويسة الصفحات الإدارية"
+
+#: modules/admin-overview.php:603
+msgid "I am an empty columnm. Drag cards into me."
+msgstr "عمود فارغ، يمكنك سحب البطاقات إلى هنا"
+
+#: modules/premium/admin-menu-creator.php:1208
+#: modules/premium/admin-menu-creator.php:1209
+msgid "Icon"
+msgstr "أيقونة"
+
+#: modules/premium/admin-menu-editor.php:709
+msgid "Icons"
+msgstr "الأيقونات"
+
+#: modules/admin-bar.php:324
+msgid "If disabled, notifcations will show in the normal way"
+msgstr "في حالة تفعيله، ستظهر الإشعارات بالشكل الاعتيادي السابق"
+
+#: modules/admin-login.php:150
+msgid ""
+"If enabled, after logging in users will be redirected to entered link. For "
+"admin pages use a relative URL (path after /wp-admin/), for other pages use "
+"an absolute URL"
+msgstr ""
+"في حالة تفعيله، سيتم إعادة توجيه الأعضاء بعد تسجيل الدخول إلى الرابط المُدخل."
+" بالنسبة للتوجيه إلى الصفحات الإدارية، استخدم رابط داخلي (جزئية الرابط ما "
+"بعد /wp-admin/)، أما بالنسبة للتوجيه لصفحات أخرى، فبإمكانك استخادم الرابط "
+"كاملا.\n"
+
+#: modules/admin-login.php:142
+msgid ""
+"If enabled, after logging in users will be redirected to the overview page"
+msgstr ""
+"في حالة تفعيله، سيتم إعادة توجيه الأعضاء بعد تسجيل الدخول إلى صفحة \"نظرة "
+"عامة\""
+
+#: modules/admin-bar.php:300
+msgid ""
+"If enabled, dark mode will default to true for users that haven't set a "
+"preference."
+msgstr ""
+"في حالة تفعيله، سيكون الوضع الافتراضي هو الوضع الداكن لدى كافة الأعضاء الذين "
+"لم يعينوا تفضيلًا."
+
+#: modules/admin-bar.php:316
+msgid "If enabled, front end admin bar will not load."
+msgstr "في حالة تفعيله، لن يظهر شريط الأدوات في واجهة الموقع."
+
+#: modules/admin-bar.php:364
+msgid "If enabled, the edit profile button in the offcanvas bar will be hidden"
+msgstr "في حالة تفعيله، سيتم إخفاء زر \"تعديل الحساب\" من شريط العضو الجانبي"
+
+#: modules/admin-menu.php:139
+msgid ""
+"If enabled, the menu will default to the shrunk menu for users that haven't "
+"set a preference.."
+msgstr ""
+"في حالة تفعيله، ستتحول القائمة افتراضيًا إلى قائمة منكمشة لدى الأعضاء الذين "
+"لم يحددوا تفضيلاً .."
+
+#: modules/admin-bar.php:308
+msgid ""
+"If enabled, UiPress admin bar will be load on the front end. Please note, "
+"this will not work on all themes and styling will vary.."
+msgstr ""
+"في حالة تفعيله، سيظهر شريط الأدوات المخصص بواسطة UiPress في واجهة الموقع. "
+"يرجى ملاحظة أن شريط الأدوات لن يعمل على جميع القوالب وسيختلف تصميمه .."
+
+#: admin/class-settings.php:119 admin/class-settings.php:1536
+msgid ""
+"If this is enabled then all the settings here will be applied to your "
+"subsites and they will not be able to be changed from a subsite."
+msgstr ""
+"في حالة تفعيله، فسيتم تطبيق كافة الإعدادات هنا على جميع مواقعك الفرعية ولن "
+"يكون من الممكن تغييرها من الموقع الفرعي."
+
+#: modules/premium/admin-menu-editor.php:240
+msgid ""
+"If you have admin 2020 menu component disabled, icons and label dividers "
+"won't change."
+msgstr ""
+"في حالة تعطيل محرر القائمة الإدارية، لن تتغير الأيقونات وفواصل الأقسام."
+
+#: modules/premium/admin-content.php:455
+msgid "Image Saved"
+msgstr "تم حفظ الصورة"
+
+#: admin/class-settings.php:998 admin/class-settings.php:1210
+msgid "Image URL"
+msgstr "رابط الصورة"
+
+#: modules/admin-overview.php:1082
+msgid "Import Layout"
+msgstr "استيراد تخطيط"
+
+#: modules/premium/admin-menu-creator.php:1267
+#: modules/premium/admin-menu-editor.php:282
+msgid "Import Menu"
+msgstr "استيراد قائمة"
+
+#: admin/class-settings.php:1412
+msgid "Import Settings"
+msgstr "استيراد الإعدادات"
+
+#: modules/premium/admin-menu-editor.php:282
+msgid "Imports Admin 2020 menu from JSON"
+msgstr "يمكنك استيراد قائمة Admin 2020 معدة مسبقا باستخدام ملف JSON"
+
+#: modules/premium/admin-menu-creator.php:920
+msgid ""
+"In Exclusive mode, this menu will load for every user except those Usernames "
+"and roles selected below."
+msgstr ""
+"في الوضع الحصري، سيتم تحميل هذه القائمة لدى كافة الأعضاء باستثناء أسماء "
+"الأعضاء والرتب المحددة أدناه."
+
+#: modules/premium/admin-menu-creator.php:919
+msgid ""
+"In Inclusive mode, this menu will load for all Usernames and roles selected "
+"below."
+msgstr ""
+"في الوضع الشامل، سيتم تحميل هذه القائمة لدى كافة الأعضاء والرتب المحددة "
+"أدناه."
+
+#: modules/admin-overview.php:593
+msgid "In the"
+msgstr "في نطاق"
+
+#: modules/premium/admin-overview-cards.php:91
+#: modules/premium/admin-overview-cards.php:150
+#: modules/premium/admin-overview-cards.php:207
+msgid "In the last "
+msgstr "في الـ"
+
+#: modules/admin-overview.php:373
+msgid "Inactive Plugins"
+msgstr "الإضافات الغير مفعّلة"
+
+#: modules/premium/admin-menu-creator.php:911
+msgid "Inclusive"
+msgstr "شامل"
+
+#: modules/admin-overview.php:378
+msgid "Installed Themes"
+msgstr "القوالب المثبّتة"
+
+#: modules/premium/admin-content.php:1589
+msgid "Item updated"
+msgstr "تم تحديث المنشور"
+
+#: modules/premium/admin-content.php:2629
+msgid "items"
+msgstr "عناصر"
+
+#: modules/premium/admin-content.php:999
+msgid "Items deleted succesffuly"
+msgstr "تم حذف المنشور بنجاح"
+
+#: modules/premium/admin-content.php:607
+msgid "Items duplicated succesffuly"
+msgstr "تم تكرار المنشور بنجاح"
+
+#: modules/premium/admin-content.php:2595
+msgid "Items Per Page"
+msgstr "عدد العناصر في الصفحة"
+
+#: modules/premium/admin-content.php:3350
+msgid "items selected"
+msgstr "منشورات محددة"
+
+#: modules/premium/admin-content.php:1638
+msgid "Items updated"
+msgstr "تم تحديث المنشورات"
+
+#: modules/premium/admin-content.php:526
+msgid "Items uploaded"
+msgstr "تم رفع الملفات"
+
+#: modules/premium/admin-content.php:1002
+msgid "Itms couldn't be deleted"
+msgstr "منشورات لا يمكن حذفها"
+
+#: modules/premium/admin-content.php:610
+msgid "Itms couldn't be duplicated"
+msgstr "منشورات لا يمكن تكرارها"
+
+#: modules/premium/admin-advanced.php:151
+msgid ""
+"Javascript added here will be loaded on every admin page as well as the "
+"login page"
+msgstr ""
+"سيتم تحميل كود الـ جافا سكريبت المضاف هنا على كافة الصفحات الإدارية بالإضافة "
+"إلى صفحة تسجيل الدخول"
+
+#: modules/premium/admin-content.php:2069
+msgid "Keep existing categories"
+msgstr "ابق التصنيفات الموجودة"
+
+#: modules/premium/admin-content.php:2084
+msgid "Keep existing tags"
+msgstr "ابق الوسوم الموجودة"
+
+#: modules/admin-overview.php:601
+msgid "large (3/4)"
+msgstr "ثلاثة أرباع العرض (3/4)"
+
+#: modules/premium/admin-content.php:2378
+msgid "Last modified on"
+msgstr "آخر تعديل في"
+
+#: modules/admin-overview.php:645
+msgid "Layout Imported"
+msgstr "تم استيراد التخطيط"
+
+#: admin/class-settings.php:1504
+msgid "Licence"
+msgstr "الترخيص"
+
+#: admin/class-settings.php:369
+msgid "Licence removed"
+msgstr "تم إزالة الترخيص"
+
+#: modules/admin-overview.php:620
+msgid "Line Chart"
+msgstr "رسم بياني خطي"
+
+#: modules/premium/admin-menu-creator.php:1203
+#: modules/premium/admin-menu-creator.php:1204
+msgid "Link"
+msgstr "الرابط"
+
+#: modules/premium/admin-content.php:2578
+msgid "List Mode"
+msgstr "قائمة"
+
+#: modules/premium/admin-content.php:3316
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: modules/admin-bar.php:307
+msgid "Load UIPress admin bar on front end"
+msgstr "إظهار شريط أدوات UiPress المخصص في واجهة الموقع"
+
+#: modules/admin-login.php:104
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: modules/admin-login.php:134
+msgid "Login style will match dark theme if enabled."
+msgstr "سوف يتم مطابقة تنسيق صفحة تسجيل الدخول مع الوضع الداكن في حالة تفعيله."
+
+#: modules/admin-bar.php:241
+msgid "Logo Dark Mode"
+msgstr "الشعار (الوضع الداكن)"
+
+#: modules/admin-bar.php:233
+msgid "Logo Light Mode"
+msgstr "الشعار (الوضع الفاتح)"
+
+#: modules/admin-bar.php:1272
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: modules/premium/admin-menu-creator.php:746
+msgid "Looks like you haven't created any admin menus yet"
+msgstr "يبدو أنك لم تنشئ أي قوائم إدارية حتى الآن"
+
+#: modules/premium/admin-content.php:2853
+#: modules/premium/admin-content.php:2856
+msgid "Media Types"
+msgstr "أنواع الوسائط"
+
+#: modules/admin-overview.php:599
+msgid "medium (1/2)"
+msgstr "نصف العرض (1/2)"
+
+#: modules/admin-overview.php:600
+msgid "medium large (2/3)"
+msgstr "ثلثي العرض (2/3)"
+
+#: modules/admin-menu.php:85
+msgid "Menu"
+msgstr "القائمة"
+
+#: modules/premium/admin-menu-creator.php:906
+msgid "Menu Applies to"
+msgstr "يتم عرض القائمة لدى"
+
+#: modules/premium/admin-menu-creator.php:589
+#: modules/premium/admin-menu-creator.php:696
+#: modules/premium/admin-menu-creator.php:735
+#: modules/premium/admin-menu-creator.php:1236
+msgid "Menu Creator"
+msgstr "منشئ القوائم"
+
+#: modules/premium/admin-menu-creator.php:872
+msgid ""
+"Menu creator isn't optimised for mobile devices. For best results switch to "
+"a larger screen"
+msgstr ""
+"لم يتم تحسين \"مُنشئ القائمة\" للأجهزة المحمولة. للحصول على أفضل النتائج، قم "
+"بالتبديل إلى شاشة أكبر."
+
+#: modules/premium/admin-menu-creator.php:336
+msgid "Menu deleted"
+msgstr "تم حذف القائمة"
+
+#: modules/admin-menu.php:105
+msgid "Menu Disabled for"
+msgstr "تعطيل القائمة لدى"
+
+#: modules/premium/admin-menu-creator.php:389
+msgid "Menu duplicated"
+msgstr "تم تكرار القائمة"
+
+#: modules/premium/admin-menu-editor.php:107
+#: modules/premium/admin-menu-editor.php:265
+msgid "Menu Editor"
+msgstr "محرر القوائم"
+
+#: modules/premium/admin-menu-editor.php:205
+msgid "Menu Editor (UiPress)"
+msgstr "محرر القوائم (UiPress)"
+
+#: modules/premium/admin-menu-creator.php:609
+#: modules/premium/admin-menu-editor.php:127
+msgid "Menu Editor disabled for"
+msgstr "تعطيل محرر القوائم الإدارية لدى"
+
+#: modules/premium/admin-menu-editor.php:1521
+msgid "Menu Imported"
+msgstr "تم استيراد القائمة"
+
+#: modules/premium/admin-menu-creator.php:900
+#: modules/premium/admin-menu-creator.php:901
+msgid "Menu Name"
+msgstr "عنوان القائمة"
+
+#: modules/admin-menu.php:892
+msgid "Menu Preferences"
+msgstr "تفضيلات القائمة"
+
+#: modules/premium/admin-menu-creator.php:453
+msgid "Menu Saved"
+msgstr "تم حفظ القائمة"
+
+#: modules/premium/admin-content.php:2444
+msgid "Meta Data"
+msgstr "البيانات الوصفية"
+
+#: modules/premium/admin-content.php:2128
+msgid "Meta Key"
+msgstr "مفتاح ميتا"
+
+#: modules/premium/admin-content.php:2134
+msgid "Meta Key Name"
+msgstr "عنوان مفتاح ميتا"
+
+#: modules/premium/admin-content.php:2188
+msgid "Meta key Name"
+msgstr "عنوان مفتاح ميتا"
+
+#: modules/premium/admin-content.php:364
+msgid "Meta Value"
+msgstr "قيمة مفتاح ميتا"
+
+#: admin/class-settings.php:922 admin/class-settings.php:1169
+msgid "module"
+msgstr "إعدادات"
+
+#: admin/class-settings.php:1449 admin/class-settings.php:1496
+msgid "Modules"
+msgstr "الإعدادات"
+
+#: modules/premium/admin-content.php:2127
+#: modules/premium/admin-content.php:2669
+#: modules/premium/admin-content.php:3084 modules/premium/admin-folders.php:855
+#: modules/premium/admin-menu-creator.php:755
+#: modules/premium/admin-menu-creator.php:1198
+#: modules/premium/admin-menu-creator.php:1199
+msgid "Name"
+msgstr "العنوان"
+
+#: modules/premium/admin-content.php:2222
+#: modules/premium/admin-menu-creator.php:740
+msgid "New"
+msgstr "جديد"
+
+#: modules/premium/admin-menu-creator.php:198
+msgid "New Admin Menu"
+msgstr "قائمة إدارية جديدة"
+
+#: modules/premium/admin-pages.php:259
+msgid "New Admin Page"
+msgstr "صفحة إدارية جديدة"
+
+#: modules/premium/admin-content.php:2654 modules/premium/admin-folders.php:687
+#: modules/premium/admin-folders.php:840
+msgid "New Folder"
+msgstr "مجلد جديد"
+
+#: modules/premium/admin-menu-editor.php:547
+#: modules/premium/admin-menu-editor.php:682
+msgid "New Link..."
+msgstr "رابط جديد..."
+
+#: modules/premium/admin-menu-editor.php:383
+#: modules/premium/admin-menu-editor.php:510
+#: modules/premium/admin-menu-editor.php:643
+msgid "New name..."
+msgstr "عنوان جديد..."
+
+#: modules/admin-overview.php:982 modules/admin-overview.php:1030
+msgid "New Section"
+msgstr "قسم جديد"
+
+#: modules/premium/admin-content.php:2182
+msgid "New Text"
+msgstr "نص جديد"
+
+#: modules/premium/admin-menu-creator.php:204
+msgid "No Admin Menus found in Trash."
+msgstr "لم يتم العثور على قوائم إدارية في المحذوفات."
+
+#: modules/premium/admin-menu-creator.php:203
+msgid "No Admin Menus found."
+msgstr "لم يتم العثور على قوائم إدارية."
+
+#: modules/premium/admin-pages.php:265
+msgid "No Admin Pages found in Trash."
+msgstr "لم يتم العثور على صفحات إدارية في المحذوفات."
+
+#: modules/premium/admin-pages.php:264
+msgid "No Admin Pages found."
+msgstr "لم يتم العثور على صفحات إدارية."
+
+#: modules/admin-overview.php:631
+msgid "No Background"
+msgstr "إخفاء الخلفية"
+
+#: modules/admin-overview.php:332
+msgid "No comments during the date range."
+msgstr "لا توجد تعليقات خلال النطاق الزمني المحدد."
+
+#: modules/premium/admin-overview-cards.php:261
+msgid "No comments for date range"
+msgstr "لا يوجد تعليقات خلال الفترة الزمنية المحددة"
+
+#: modules/premium/admin-content.php:3325
+msgid "No content found"
+msgstr "لم يتم العثور على محتوى"
+
+#: modules/premium/admin-content.php:1297 modules/premium/admin-folders.php:70
+msgid "No content to move"
+msgstr "لا يوجد محتوى ليتم نقله"
+
+#: modules/premium/admin-content.php:2777 modules/premium/admin-folders.php:963
+msgid "No folder"
+msgstr "لا توجد مجلدات"
+
+#: modules/premium/admin-content.php:1333 modules/premium/admin-folders.php:221
+msgid "No folder to delete"
+msgstr "لا توجد مجلدات لحذفها"
+
+#: modules/premium/admin-folders.php:693
+msgid "No Folders found in Trash."
+msgstr "لم يتم العثور على مجلدات في المحذوفات."
+
+#: modules/premium/admin-folders.php:692
+msgid "No Folders found."
+msgstr "لم يتم العثور على مجلدات."
+
+#: modules/admin-overview.php:633
+msgid "No Google Analytics account connected"
+msgstr "لا يوجد حساب Google Analytics مرتبط"
+
+#: admin/class-activation.php:246
+msgid "No licence key provided"
+msgstr "لم يتم توفير مفتاح ترخيص"
+
+#: modules/premium/admin-content.php:656 modules/premium/admin-content.php:710
+msgid "No Meta Key provided"
+msgstr "لا يوجد أي مفتاح ميتا"
+
+#: admin/class-settings.php:400 modules/premium/admin-menu-editor.php:1354
+msgid "No options supplied to save"
+msgstr "لا توجد خيارات للحفظ"
+
+#: modules/premium/admin-overview-cards.php:416
+msgid "No posts for date range"
+msgstr "لم يتم نشر محتوى خلال الفترة الزمنية المحددة"
+
+#: modules/admin-overview.php:127 modules/admin-woocommerce.php:240
+msgid "No posts posted during the date range."
+msgstr "لم يتم نشر أي منشورات خلال النطاق الزمني المحدد."
+
+#: admin/class-utilities.php:125
+msgid "No preferences supplied to save"
+msgstr "لم يتم اختيار التفضيلات لكي يتم الحفظ"
+
+#: modules/admin-woocommerce.php:327
+msgid "No products sold during the date range."
+msgstr "لا توجد منتجات مباعة خلال النطاق الزمني المحدد."
+
+#: modules/premium/admin-menu-editor.php:574
+msgid "No sub menu items"
+msgstr "لا توجد قوائم فرعية"
+
+#: admin/class-update.php:134
+msgid "No Updates available"
+msgstr "لا توجد تحديثات متوفرة"
+
+#: admin/class-settings.php:656
+msgid "No video supplied to delete"
+msgstr "لا يوجد فيديو لحذفه"
+
+#: admin/class-settings.php:580
+msgid "No video supplied to save"
+msgstr "لا يوجد فيديو لكي يتم حفظه"
+
+#: admin/class-settings.php:958
+msgid "Not Active"
+msgstr "غير مفعّل"
+
+#: modules/admin-bar.php:1035
+msgid "Nothing found for your query"
+msgstr "لم يتم العثور عما تبحث عنه"
+
+#: modules/admin-bar.php:1362
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: modules/premium/admin-content.php:2626
+msgid "of"
+msgstr "الـ"
+
+#: modules/premium/admin-overview-cards.php:319
+msgid "on"
+msgstr "على"
+
+#: modules/admin-bar.php:347
+msgid "Only show notifcations to"
+msgstr "إظهار الإشعارات فقط لـ"
+
+#: modules/admin-bar.php:355
+msgid "Only show updates to"
+msgstr "إظهار التحديثات فقط لـ"
+
+#: modules/premium/admin-content.php:118 modules/premium/admin-content.php:201
+msgid "Only the selected post types will be available in the content page."
+msgstr "فقط أنواع المنشورات المحددة هنا ستظهر في صفحة المحتوى"
+
+#: modules/admin-bar.php:340
+msgid "Only the selected post types will show up in the create dropdown."
+msgstr "ستظهر فقط أنواع المنشورات المختارة هنا في قائمة \"إنشاء\" المنسدلة."
+
+#: modules/admin-bar.php:242
+msgid "Optional dark mode logo for admin bar."
+msgstr "يمكّنك من اختيار شعار الوضع الداكن لشريط الأدوات"
+
+#: modules/premium/admin-content.php:344
+msgid "Original Title / Value"
+msgstr "العنوان الأساسي"
+
+#: modules/admin-bar.php:1088
+msgid "other matches"
+msgstr "نتائج أخرى مشابهة"
+
+#: modules/admin-overview.php:756
+msgid "Outputs a WordPress shortcode to the card"
+msgstr "يمكّنك من إصدار كود قصير للبطاقة"
+
+#: modules/admin-overview.php:765
+msgid "Outputs custom HTML to the card"
+msgstr "يمكّنك من إصدار كود HTML مخصص للبطاقة"
+
+#: admin/class-settings.php:118
+msgid "Override Subsite Settings"
+msgstr "تجاوز إعدادات الموقع الفرعي"
+
+#: admin/class-settings.php:1535
+msgid "Override Subsite Settings?"
+msgstr "تجاوز إعدادات الموقع الفرعي؟"
+
+#: modules/admin-bar.php:1174 modules/admin-overview.php:494
+#: modules/admin-overview.php:944
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: modules/admin-overview.php:514
+msgid "Overview Disabled for"
+msgstr "تعطيل صفحة \"نظرة عامة\" لدى"
+
+#: modules/admin-overview.php:515
+msgid "Overview page will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل صفحة \"نظرة عامة\" لدى الأعضاء والرتب التي تحددها"
+
+#: modules/admin-overview.php:637
+msgid "Page"
+msgstr "صفحة"
+
+#: modules/admin-analytics.php:703 modules/admin-analytics.php:840
+msgid "Page Speed"
+msgstr "سرعة تحميل الصفحة"
+
+#: modules/admin-analytics.php:712
+msgid "Page Speed (comparison period)"
+msgstr "سرعة الموقع (الفترة الماضية)"
+
+#: modules/admin-analytics.php:438 modules/admin-analytics.php:831
+msgid "Page Views"
+msgstr "مشاهدات الموقع"
+
+#: modules/admin-analytics.php:447
+msgid "Page Views (comparison period)"
+msgstr "مشاهدات الموقع (الفترة الماضية)"
+
+#: modules/admin-overview.php:423
+msgid "Passed Checks"
+msgstr "عناصر سليمة"
+
+#: modules/admin-overview.php:363 modules/premium/admin-overview-cards.php:356
+msgid "PHP version"
+msgstr "إصدار PHP"
+
+#: admin/class-activation.php:132
+msgid "Please add a valid licence to activate"
+msgstr "الرجاء إضافة ترخيص صالح للتفعيل"
+
+#: modules/admin-overview.php:643
+msgid "Please select a valid JSON file"
+msgstr "الرجاء تحديد ملف JSON صالح"
+
+#: modules/admin-bar.php:1333 modules/premium/admin-overview-cards.php:360
+msgid "Plugins"
+msgstr "الإضافات"
+
+#: modules/admin-overview.php:625
+msgid "Polar Area"
+msgstr "المنطقة القطبية"
+
+#: modules/admin-woocommerce.php:158
+msgid "Popular Products"
+msgstr "المنتجات الشائعة"
+
+#: modules/premium/admin-content.php:2820
+#: modules/premium/admin-content.php:2823
+msgid "Post Status"
+msgstr "حالة المنشور"
+
+#: modules/premium/admin-content.php:2809
+#: modules/premium/admin-content.php:2812
+msgid "Post Types"
+msgstr "أنواع المنشورات"
+
+#: modules/premium/admin-content.php:117 modules/premium/admin-content.php:200
+msgid "Post types available in content page"
+msgstr "أنواع المنشورات المتاحة في صفحة المحتوى"
+
+#: modules/admin-bar.php:339
+msgid "Post Types available in create button (new)"
+msgstr "أنواع المنشورات المتاحة في قائمة \"إنشاء\" المنسدلة"
+
+#: modules/admin-bar.php:331
+msgid "Post Types available in Search"
+msgstr "أنواع المنشورات المتاح البحث عنها في محرك البحث"
+
+#: modules/premium/admin-content.php:2931
+msgid "Posted"
+msgstr "منشور"
+
+#: modules/premium/admin-content.php:2838
+msgid "Posted After"
+msgstr "أُنشِئ بعد"
+
+#: modules/premium/admin-content.php:2839
+msgid "Posted Before"
+msgstr "أُنشِئ قبل"
+
+#: modules/premium/admin-content.php:2837
+msgid "Posted On"
+msgstr "أُنشِئ في"
+
+#: modules/admin-overview.php:119 modules/admin-overview.php:325
+#: modules/admin-woocommerce.php:232 modules/admin-woocommerce.php:320
+msgid "Posts fetched"
+msgstr "تم جلب المنشورات"
+
+#: modules/admin-bar.php:1181
+msgid "Preferences"
+msgstr "التفضيلات"
+
+#: admin/class-utilities.php:145
+msgid "Preferences saved"
+msgstr "تم حفظ التفضيلات"
+
+#: modules/admin-overview.php:613
+msgid "Premium feature. Upgrade to pro to unlock"
+msgstr "ميزة مدفوعة، قم بالترقية لنسخة الـ برو"
+
+#: admin/class-settings.php:1108 admin/class-settings.php:1319
+#: modules/premium/admin-content.php:2218
+#: modules/premium/admin-content.php:2236
+#: modules/premium/admin-menu-creator.php:1015
+msgid "Preview"
+msgstr "معاينة"
+
+#: modules/admin-theme.php:158
+msgid "Primary Color (Dark Mode)"
+msgstr "اللون الأساسي (الوضع الداكن)"
+
+#: modules/admin-theme.php:150
+msgid "Primary Color (Light Mode)"
+msgstr "اللون الأساسي (الوضع الفاتح)"
+
+#: modules/admin-overview.php:608
+msgid "Pro"
+msgstr "برو"
+
+#: admin/class-settings.php:978
+msgid "Pro feature"
+msgstr "مزايا نسخة الـ برو"
+
+#: modules/admin-overview.php:638
+msgid "Product"
+msgstr "منتج"
+
+#: modules/premium/admin-content.php:3190
+#: modules/premium/admin-content.php:3277
+msgid "Quick Edit"
+msgstr "تعديل سريع"
+
+#: modules/admin-overview.php:709 modules/premium/admin-overview-cards.php:28
+msgid "Recent Comments"
+msgstr "أحدث التعليقات"
+
+#: modules/admin-woocommerce.php:149
+msgid "Recent Orders"
+msgstr "الطلبيات الأخيرة"
+
+#: modules/admin-overview.php:710
+msgid "recent-comments"
+msgstr "أحدث التعليقات"
+
+#: modules/admin-overview.php:701
+msgid "recent-posts"
+msgstr "أحدث المنشورات"
+
+#: modules/admin-overview.php:700 modules/premium/admin-overview-cards.php:30
+msgid "Recently Published"
+msgstr "نشرت مؤخرا"
+
+#: modules/admin-overview.php:431
+msgid "Recommended"
+msgstr "تحسينات موصى بها"
+
+#: modules/admin-login.php:149
+msgid "Redirect to custom page"
+msgstr "إعادة التوجيه إلى صفحة مخصصة"
+
+#: modules/admin-login.php:141
+msgid "Redirect to overview page"
+msgstr "إعادة التوجيه إلى صفحة \"نظرة عامة\""
+
+#: admin/class-settings.php:1095 admin/class-settings.php:1306
+#: admin/class-settings.php:1508 modules/premium/admin-content.php:2271
+msgid "Remove"
+msgstr "إزالة"
+
+#: modules/admin-overview.php:591
+msgid "Remove Card"
+msgstr "إزالة البطاقة"
+
+#: admin/class-settings.php:1055 admin/class-settings.php:1266
+msgid "Remove licence"
+msgstr "إزالة الترخيص"
+
+#: modules/admin-overview.php:1154
+msgid "Remove Section"
+msgstr "إزالة القسم"
+
+#: modules/premium/admin-content.php:2237
+msgid "Rename"
+msgstr "إعادة التسمية"
+
+#: modules/premium/admin-menu-editor.php:382
+#: modules/premium/admin-menu-editor.php:509
+#: modules/premium/admin-menu-editor.php:642
+msgid "Rename as"
+msgstr "إعادة التسمية كـ"
+
+#: modules/premium/admin-content.php:2150
+msgid "Rename Item"
+msgstr "إعادة تسمية المنشور"
+
+#: modules/premium/admin-content.php:2194
+msgid "Replace"
+msgstr "استبدال"
+
+#: modules/admin-overview.php:1095
+msgid "Reset Layout"
+msgstr "إعادة تعيين التخطيط"
+
+#: modules/premium/admin-menu-editor.php:287
+msgid "Reset Menu"
+msgstr "إعادة تعيين القائمة"
+
+#: admin/class-settings.php:1421 modules/premium/admin-menu-creator.php:1276
+msgid "Reset Settings"
+msgstr "إعادة تعيين الإعدادات"
+
+#: admin/class-settings.php:1395 admin/class-settings.php:1583
+#: modules/admin-menu.php:571 modules/admin-menu.php:747
+#: modules/premium/admin-content.php:3433
+#: modules/premium/admin-menu-creator.php:1248
+#: modules/premium/admin-menu-editor.php:269
+msgid "Save"
+msgstr "حفظ"
+
+#: modules/premium/admin-content.php:2884
+msgid "Save as view"
+msgstr "حفظ عوامل التصفية"
+
+#: modules/admin-overview.php:985 modules/admin-overview.php:1033
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: modules/admin-bar.php:937 modules/admin-bar.php:944
+#: modules/admin-menu.php:535 modules/admin-menu.php:711
+msgid "Search"
+msgstr "بحث"
+
+#: modules/premium/admin-menu-creator.php:202
+msgid "Search Admin Menus"
+msgstr "ادخل اسم القائمة الإدارية"
+
+#: modules/premium/admin-pages.php:263
+msgid "Search Admin Pages"
+msgstr "ادخل اسم الصفحة الإدارية"
+
+#: modules/admin-overview.php:607
+msgid "Search Cards"
+msgstr "بحث في البطاقات"
+
+#: modules/premium/admin-content.php:2064
+#: modules/premium/admin-content.php:2481
+#: modules/premium/admin-content.php:2868
+msgid "Search categories..."
+msgstr "ادخل عنوان التصنيف"
+
+#: modules/premium/admin-folders.php:691
+msgid "Search Folders"
+msgstr "بحث في المجلدات"
+
+#: admin/class-settings.php:1064 admin/class-settings.php:1275
+msgid "Search google fonts..."
+msgstr "ادخل اسم الخط"
+
+#: modules/premium/admin-content.php:2857
+msgid "Search Media Types..."
+msgstr "البحث في أنواع الوسائط"
+
+#: modules/premium/admin-menu-creator.php:950
+msgid "Search menu items"
+msgstr "البحث في عناصر القائمة"
+
+#: modules/premium/admin-content.php:2824
+msgid "Search Post Statuses..."
+msgstr "ادخل حالة المنشور"
+
+#: modules/premium/admin-content.php:2813
+msgid "Search Post Types..."
+msgstr "ادخل نوع المنشور"
+
+#: admin/class-settings.php:1044 admin/class-settings.php:1255
+msgid "Search posts and CPTs..."
+msgstr "بحث ..."
+
+#: admin/class-settings.php:1159
+msgid "Search results for"
+msgstr "نتائج البحث عن"
+
+#: modules/premium/admin-menu-creator.php:925
+msgid "Search roles and users..."
+msgstr "ادخل اسم الرتبة أو العضو"
+
+#: admin/class-settings.php:1391
+msgid "Search Settings..."
+msgstr "بحث ..."
+
+#: modules/premium/admin-content.php:2470
+msgid "Search status..."
+msgstr "البحث في الحالات"
+
+#: modules/premium/admin-content.php:2079
+#: modules/premium/admin-content.php:2492
+#: modules/premium/admin-content.php:2879
+msgid "Search tags..."
+msgstr "البحث في الوسوم"
+
+#: admin/class-settings.php:1034 admin/class-settings.php:1245
+msgid "Search users and roles..."
+msgstr "ادخل اسم الرتبة أو العضو"
+
+#: modules/admin-bar.php:921
+msgid "Search website"
+msgstr "بحث في الموقع"
+
+#: modules/premium/admin-content.php:2616
+msgid "Search..."
+msgstr "بحث..."
+
+#: modules/admin-overview.php:606
+msgid "Section added"
+msgstr "تم إضافة القسم"
+
+#: modules/premium/admin-menu-editor.php:898
+msgid "Select"
+msgstr "اختر"
+
+#: modules/premium/admin-content.php:225
+msgid "Select Post Types"
+msgstr "اختر أنواع المنشورات"
+
+#: modules/premium/admin-content.php:187 modules/premium/admin-folders.php:601
+#: modules/premium/admin-menu-editor.php:408
+#: modules/premium/admin-menu-editor.php:533
+#: modules/premium/admin-menu-editor.php:667
+#: modules/premium/admin-pages.php:172
+msgid "Select roles or users"
+msgstr "اختر الرتب أو الأعضاء"
+
+#: modules/premium/admin-menu-editor.php:374
+msgid "Separator"
+msgstr "فاصل"
+
+#: modules/premium/admin-menu-creator.php:1081
+msgid "Seperator"
+msgstr "فاصل"
+
+#: modules/premium/admin-content.php:360
+msgid "Sequence Number"
+msgstr "رقم تسلسلي"
+
+#: modules/admin-analytics.php:876
+msgid "Session Duration"
+msgstr "مدة الجلسة"
+
+#: modules/admin-menu.php:138
+msgid "Set collapsed menu as default"
+msgstr "تعيين القائمة المنطوية كقائمة افتراضية"
+
+#: modules/premium/admin-menu-editor.php:551
+msgid "Set custom icon"
+msgstr "تعيين أيقونة مخصصة"
+
+#: modules/admin-bar.php:299
+msgid "Set Dark Mode as Default"
+msgstr "تعيين الوضع الداكن كافتراضي"
+
+#: modules/admin-menu.php:954
+msgid "Set Favourites"
+msgstr "تعيين القوائم المفضلة"
+
+#: modules/admin-menu.php:122 modules/admin-theme.php:143
+#: modules/admin-theme.php:159
+msgid "Sets a background colour for the admin menu in dark mode."
+msgstr "يمكّنك من ضبط لون خلفية القائمة الإدارية في الوضع الداكن"
+
+#: modules/admin-menu.php:114 modules/admin-theme.php:135
+#: modules/admin-theme.php:151
+msgid "Sets a background colour for the admin menu in light mode."
+msgstr "يمكّنك من ضبط لون خلفية شريط الأدوات في الوضع الفاتح"
+
+#: modules/admin-bar.php:259
+msgid "Sets admin bar background color in dark mode."
+msgstr "يمكّنك من ضبط لون خلفية شريط الأدوات للوضع الداكن"
+
+#: modules/admin-bar.php:250
+msgid "Sets admin bar background color in light mode."
+msgstr "يمكّنك من ضبط خلفية شريط الأدوات في الوضع الفاتح"
+
+#: modules/admin-login.php:125
+msgid "Sets an optional background image for the login page."
+msgstr "يمكّنك من ضبط صورة الخلفية لصفحة تسجيل الدخول"
+
+#: modules/admin-theme.php:168
+msgid "Sets padding (in px) for cards, metaboxes and other items in the UI."
+msgstr ""
+"يمكّنك من ضبط الهوامش الداخلية (بـ البيكسل) للبطاقات، وعناصر ميتا، والعناصر "
+"الأخرى في لوحة التحكم."
+
+#: modules/admin-bar.php:234
+msgid "Sets the logo for the admin bar in light mode."
+msgstr "يمكّنك من تغيير الشعار لشريط الأدوات في الوضع الفاتح"
+
+#: admin/class-settings.php:170 modules/admin-overview.php:1048
+#: modules/premium/admin-menu-editor.php:497
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: admin/class-settings.php:467 modules/premium/admin-menu-editor.php:1471
+msgid "Settings reset"
+msgstr "إعادة تعيين الإعدادات"
+
+#: modules/premium/admin-menu-editor.php:1363
+msgid "Settings saved"
+msgstr "تم حفظ الإعدادات"
+
+#: admin/class-settings.php:428
+msgid "Settings saved. You may need to refresh for changes to take effect"
+msgstr "تم حفظ الإعدادات. قد تحتاج إلى تحديث الصفحة حتى تظهر التغييرات"
+
+#: modules/admin-overview.php:610 modules/admin-overview.php:754
+msgid "Shortcode"
+msgstr "كود قصير"
+
+#: modules/admin-overview.php:755
+msgid "shortcode"
+msgstr "الرمز القصير"
+
+#: modules/admin-overview.php:210
+msgid "Shortcode loaded"
+msgstr "تم تحميل الكود القصير"
+
+#: modules/admin-bar.php:1399
+msgid "Show all"
+msgstr "عرض الكل"
+
+#: modules/admin-menu.php:941
+msgid "Show favourites"
+msgstr "عرض القوائم المفضلة"
+
+#: modules/admin-bar.php:1086
+msgid "Show more"
+msgstr "عرض المزيد"
+
+#: modules/admin-bar.php:1225 modules/admin-bar.php:1532
+msgid "Show screen options"
+msgstr "عرض عناصر الشاشة"
+
+#: modules/admin-menu.php:897
+msgid "Show search bar"
+msgstr "عرض شريط البحث"
+
+#: modules/admin-menu.php:927
+msgid "Show submenu on hover"
+msgstr "عرض القوائم الفرعية عند مرور المؤشر"
+
+#: modules/admin-overview.php:727
+msgid "Site Health"
+msgstr "صحة الموقع"
+
+#: modules/admin-overview.php:453
+msgid "Site Health screen"
+msgstr "شاشة صحة الموقع"
+
+#: modules/admin-analytics.php:357 modules/admin-analytics.php:849
+msgid "Site Users"
+msgstr "زوار الموقع"
+
+#: modules/admin-analytics.php:366
+msgid "Site Users (comparison period)"
+msgstr "زوار الموقع (الفترة الماضية)"
+
+#: modules/admin-analytics.php:858
+msgid "Site visits by device"
+msgstr "الزيارات حسب الجهاز"
+
+#: modules/admin-overview.php:728
+msgid "site-health"
+msgstr "صحة الموقع"
+
+#: modules/admin-overview.php:597
+msgid "small (1/4)"
+msgstr "ربع العرض (1/4)"
+
+#: modules/admin-overview.php:598
+msgid "small medium (1/3)"
+msgstr "ثلث العرض (1/3)"
+
+#: modules/admin-overview.php:639
+msgid "Sold"
+msgstr "مباع"
+
+#: admin/class-settings.php:432 admin/class-settings.php:499
+#: admin/class-settings.php:632 admin/class-settings.php:703
+#: modules/premium/admin-content.php:600 modules/premium/admin-content.php:676
+#: modules/premium/admin-content.php:754 modules/premium/admin-content.php:992
+#: modules/premium/admin-content.php:1147
+#: modules/premium/admin-content.php:1195 modules/premium/admin-folders.php:192
+#: modules/premium/admin-folders.php:309
+#: modules/premium/admin-menu-creator.php:286
+#: modules/premium/admin-menu-creator.php:315
+#: modules/premium/admin-menu-creator.php:357
+#: modules/premium/admin-menu-creator.php:415
+#: modules/premium/admin-menu-creator.php:474
+#: modules/premium/admin-menu-editor.php:1367
+#: modules/premium/admin-menu-editor.php:1475
+msgid "Something went wrong"
+msgstr "حدث خطأ ما"
+
+#: modules/admin-overview.php:636
+msgid "Source"
+msgstr "المصدر"
+
+#: modules/premium/admin-content.php:2186
+msgid "Start Number"
+msgstr "رقم البدء"
+
+#: modules/premium/admin-content.php:2464
+#: modules/premium/admin-content.php:2469
+#: modules/premium/admin-content.php:3100
+#: modules/premium/admin-menu-creator.php:759
+#: modules/premium/admin-menu-creator.php:892
+msgid "Status"
+msgstr "الحالة"
+
+#: modules/premium/admin-menu-creator.php:295
+msgid "Status Updated"
+msgstr "تم تحديث الحالة"
+
+#: modules/admin-woocommerce.php:100
+msgid "Store Analytics Disabled for"
+msgstr "تحليلات المتجر معطلة لدى"
+
+#: modules/admin-woocommerce.php:101
+msgid "Store Analytics will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل تحليلات المتجر لدى الأعضاء والرتب التي تحددها"
+
+#: modules/admin-login.php:106
+msgid "Styles the admin login page."
+msgstr "تمكّنك من تنسيق صفحة تسجيل الدخول"
+
+#: modules/premium/admin-menu-editor.php:498
+msgid "Sub Menu"
+msgstr "قائمة فرعية"
+
+#: modules/premium/admin-pages.php:141
+msgid "Super Admin"
+msgstr "مدير عام"
+
+#: admin/class-activation.php:161
+msgid "Supercharge your admin with Admin 2020 Pro"
+msgstr "عزز لوحة تحكم موقعك مع Admin 2020 برو"
+
+#: modules/admin-overview.php:718 modules/premium/admin-overview-cards.php:29
+msgid "System Info"
+msgstr "معلومات النظام"
+
+#: modules/admin-overview.php:719
+msgid "system-info"
+msgstr "معلومات النظام"
+
+#: modules/premium/admin-content.php:2078
+#: modules/premium/admin-content.php:2487
+#: modules/premium/admin-content.php:2491
+#: modules/premium/admin-content.php:2875
+#: modules/premium/admin-content.php:2878
+msgid "Tags"
+msgstr "الوسوم"
+
+#: modules/admin-overview.php:452
+#, php-format
+msgid "Take a look at the %d items on the"
+msgstr "ألق نظرة على الـ %d عناصر في"
+
+#: admin/class-settings.php:1106 admin/class-settings.php:1317
+#: modules/premium/admin-content.php:348
+msgid "Text"
+msgstr "نص"
+
+#: modules/admin-bar.php:332
+msgid "The global search will only search the selected post types."
+msgstr "سيبحث محرك بحث لوحة التحكم فقط في أنواع المنشورات المحددة."
+
+#: modules/admin-theme.php:106
+msgid "Theme"
+msgstr "القالب"
+
+#: modules/admin-theme.php:126
+msgid "Theme Disabled for"
+msgstr "تعطيل القالب لدى"
+
+#: modules/admin-bar.php:1346
+msgid "Themes"
+msgstr "القوالب"
+
+#: modules/admin-overview.php:609 modules/premium/admin-content.php:2416
+#: modules/premium/admin-content.php:2417
+msgid "Title"
+msgstr "العنوان"
+
+#: modules/premium/admin-content.php:1125 modules/premium/admin-folders.php:287
+msgid "Title is required"
+msgstr "العنوان مطلوب"
+
+#: modules/admin-bar.php:1436
+msgid "Toggle menu"
+msgstr "القائمة الجانبية"
+
+#: modules/premium/admin-overview-cards.php:27
+msgid "Total Comments"
+msgstr "إجمالي التعليقات"
+
+#: modules/admin-woocommerce.php:131
+msgid "Total Orders"
+msgstr "إجمالي الطلبات"
+
+#: modules/premium/admin-overview-cards.php:26
+msgid "Total Pages"
+msgstr "إجمالي الصفحات"
+
+#: modules/premium/admin-overview-cards.php:25
+msgid "Total Posts"
+msgstr "إجمالي المنشورات"
+
+#: modules/admin-woocommerce.php:122 modules/admin-woocommerce.php:453
+#: modules/admin-woocommerce.php:613
+msgid "Total Sales"
+msgstr "إجمالي المبيعات"
+
+#: modules/admin-woocommerce.php:462 modules/admin-woocommerce.php:622
+msgid "Total Sales (Comparison)"
+msgstr "إجمالي المبيعات (مقارنة)"
+
+#: modules/admin-analytics.php:894
+msgid "Traffic Sources"
+msgstr "مصادر الزيارات"
+
+#: modules/premium/admin-content.php:3088
+msgid "Type"
+msgstr "النوع"
+
+#: modules/admin-bar.php:226
+msgid ""
+"UiPress admin bar module will be disabled for any users or roles you select"
+msgstr ""
+"سيتم تعطيل إعدادات شريط الأدوات المخصص من UiPress لدى الأعضاء والرتب التي "
+"تحددها"
+
+#: admin/class-settings.php:100
+msgid ""
+"UIPress is activated. If you want to remove the licence the click remove."
+msgstr ""
+"تم تنشيط UiPress. إذا كنت ترغب في إزالة أو تغيير الترخيص انقر فوق \"إزالة "
+"الترخيص\"."
+
+#: admin/class-activation.php:131
+msgid "UiPress is not activated"
+msgstr "إضافة UiPress غير مفعلة"
+
+#: admin/class-settings.php:962
+msgid "UIPress is not activated, please enter a valid licence key below."
+msgstr "لم يتم تنشيط UiPress، يرجى إدخال مفتاح ترخيص صالح أدناه."
+
+#: admin/class-settings.php:99
+msgid "UIpress Licence"
+msgstr "ترخيص UiPress"
+
+#: admin/class-settings.php:946
+msgid ""
+"UIPress licence is active. For support please send us a message on our "
+"website."
+msgstr "ترخيص UiPress نشط. للحصول على الدعم، يرجى التواصل معنا عبر موقعنا."
+
+#: modules/premium/admin-menu-creator.php:610
+#: modules/premium/admin-menu-editor.php:128
+msgid "UiPress menu editor will be disabled for any users or roles you select."
+msgstr "سيتم تعطيل محرر القوائم الإدارية لدى الأعضاء والرتب التي تحددها."
+
+#: modules/admin-menu.php:106
+msgid "UiPress menu will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل قائمة UiPress للوحة التحكم لدى الأعضاء والرتب التي تحددها."
+
+#: admin/class-activation.php:192
+msgid "UiPress succesfully activated"
+msgstr "تم تفعيل UiPress بنجاح"
+
+#: modules/admin-theme.php:127
+msgid "UiPress theme will be disabled for any users or roles you select"
+msgstr "سيتم تعطيل قالب UiPress للوحة التحكم لدى الأعضاء والرتب التي تحددها"
+
+#: modules/admin-bar.php:348
+msgid ""
+"UiPress will hide all notifications from all users except those selected "
+"below"
+msgstr ""
+"سيتم إخفاء كافة الإشعارات لدى جميع الأعضاء باستثناء الذين تم تحديدهم أدناه."
+
+#: modules/admin-bar.php:356
+msgid ""
+"UiPress will hide all updates from all users except those selected below"
+msgstr ""
+"سيتم إخفاء كافة إشعارات التحديثات لدى جميع الأعضاء باستثناء أولئك المحددين "
+"أدناه"
+
+#: modules/admin-analytics.php:103
+msgid "Unable to connect account"
+msgstr "تعذر ربط الحساب"
+
+#: modules/premium/admin-menu-creator.php:330
+msgid "Unable to delete menu"
+msgstr "تعذر حذف القائمة"
+
+#: modules/premium/admin-content.php:1343 modules/premium/admin-folders.php:231
+msgid "Unable to delete the folder"
+msgstr "تعذر حذف الملف"
+
+#: modules/premium/admin-menu-creator.php:378
+msgid "Unable to duplicate menu"
+msgstr "تعذر تكرار القائمة"
+
+#: modules/premium/admin-menu-creator.php:363
+msgid "Unable to duplicate menu, menu is corrupted"
+msgstr "تعذر تكرار القائمة، القائمة تالفة"
+
+#: modules/admin-overview.php:646
+msgid "Unable to import layout"
+msgstr "تعذر استيراد التخطيط"
+
+#: modules/admin-overview.php:195 modules/admin-overview.php:203
+msgid "Unable to load shortcode at this time"
+msgstr "تعذر تحميل الكود القصير في الوقت الراهن"
+
+#: modules/premium/admin-content.php:1240 modules/premium/admin-folders.php:121
+msgid "Unable to move folder"
+msgstr "تعذر نقل المجلد"
+
+#: modules/premium/admin-content.php:1223 modules/premium/admin-folders.php:104
+msgid "Unable to move folder into itself"
+msgstr "تعذر نقل المجلد إلى نفسه"
+
+#: admin/class-activation.php:218
+msgid "Unable to register admin 2020 at this time"
+msgstr "غير قادر على تسجيل admin 2020 حاليا، حاول في وقت آخر"
+
+#: modules/premium/admin-content.php:438 modules/premium/admin-content.php:446
+#: modules/premium/admin-content.php:1573
+msgid "Unable to save attachment"
+msgstr "تعذر حفظ المرفق"
+
+#: modules/admin-overview.php:147
+msgid "Unable to save dash at this time"
+msgstr "تعذر حفظ التغييرات في الوقت الراهن"
+
+#: modules/premium/admin-menu-creator.php:442
+msgid "Unable to save menu"
+msgstr "تعذر حفظ القائمة"
+
+#: admin/class-utilities.php:148
+msgid "Unable to save user preferences"
+msgstr "تعذر حفظ تفضيلات المستخدم"
+
+#: modules/premium/admin-menu-creator.php:421
+msgid "Unable to save, menu is corrupted"
+msgstr "تعذر الحفظ، القائمة تالفة"
+
+#: modules/premium/admin-content.php:1548
+msgid "Unable to update item"
+msgstr "تعذر تحديث المنشور"
+
+#: admin/class-activation.php:162
+msgid "Unlock powerful features and speed up your workflow with Admin 2020 Pro"
+msgstr "أطلق العنان للميزات الفعالة وقم بتسريع سير عملك مع Admin 2020 برو"
+
+#: modules/admin-bar.php:1305
+msgid "Up to date"
+msgstr "محدّث"
+
+#: modules/premium/admin-content.php:2092
+#: modules/premium/admin-content.php:2501
+#: modules/premium/admin-content.php:2751 modules/premium/admin-folders.php:937
+msgid "Update"
+msgstr "تحديث"
+
+#: admin/class-update.php:128
+msgid "Update available"
+msgstr "تحديث متوفر"
+
+#: modules/premium/admin-content.php:2056
+msgid "Update Tags and Categories"
+msgstr "تحديث التصنيفات والوسوم"
+
+#: modules/admin-bar.php:1302
+msgid "Updates"
+msgstr "التحديثات"
+
+#: admin/class-activation.php:165
+msgid "Upgrade"
+msgstr "ترقية"
+
+#: admin/class-settings.php:173
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى النسخة الكاملة"
+
+#: modules/premium/admin-content.php:2303
+msgid "Upload"
+msgstr "رفع"
+
+#: admin/class-settings.php:1090 admin/class-settings.php:1301
+msgid "URL to script"
+msgstr "رابط الـ Script المراد تضمينه"
+
+#: modules/premium/admin-menu-editor.php:717
+msgid "Use Default"
+msgstr "استخدم الافتراضي"
+
+#: modules/admin-overview.php:618
+msgid "Use light color for text"
+msgstr "استخدم لون فاتح للنص"
+
+#: modules/admin-overview.php:640
+msgid "Value"
+msgstr "القيمة"
+
+#: admin/class-settings.php:1378
+msgid "Version"
+msgstr "النسخة"
+
+#: modules/admin-overview.php:745
+msgid "Video"
+msgstr "فيديو"
+
+#: admin/class-settings.php:699
+msgid "Video deleted"
+msgstr "تم حذف الفيديو"
+
+#: admin/class-settings.php:591
+msgid "Video name must be unique"
+msgstr "يجب أن يكون اسم الفيديو فريدًا"
+
+#: admin/class-settings.php:628
+msgid "Video saved"
+msgstr "تم حفظ الفيديو"
+
+#: modules/admin-overview.php:611
+msgid "Video URL"
+msgstr "رابط الفيديو"
+
+#: modules/admin-bar.php:1069 modules/premium/admin-content.php:3178
+#: modules/premium/admin-content.php:3283
+msgid "View"
+msgstr "عرض"
+
+#: modules/premium/admin-menu-creator.php:200
+msgid "View Admin Menu"
+msgstr "عرض القائمة الإدارية"
+
+#: modules/premium/admin-pages.php:261
+msgid "View Admin Page"
+msgstr "عرض الصفحة الإدارية"
+
+#: modules/admin-bar.php:1195
+msgid "View Dashboard"
+msgstr "الانتقال إلى لوحة التحكم"
+
+#: modules/premium/admin-folders.php:689
+msgid "View Folder"
+msgstr "عرض المجلد"
+
+#: modules/premium/admin-content.php:3425
+msgid "View Name"
+msgstr "عنوان القائمة"
+
+#: modules/premium/admin-content.php:3422
+msgid "View name"
+msgstr "عنوان القائمة"
+
+#: modules/admin-bar.php:1190
+msgid "View site"
+msgstr "زيارة الموقع"
+
+#: modules/admin-bar.php:1519
+msgid "View website"
+msgstr "زيارة الموقع"
+
+#: modules/premium/admin-content.php:553
+msgid "Views updated"
+msgstr "تم تحديث المشاهدات"
+
+#: modules/admin-overview.php:629
+msgid "Visits"
+msgstr "الزيارات"
+
+#: modules/admin-analytics.php:885
+msgid "Visits by Country"
+msgstr "الزيارات حسب الدولة"
+
+#: modules/admin-analytics.php:903
+msgid "Visits By Page"
+msgstr "الزيارات حسب الصفحة"
+
+#: modules/admin-overview.php:622
+msgid "vs previous"
+msgstr "مقارنة بقبل"
+
+#: modules/premium/admin-content.php:240
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This includes folders."
+msgstr ""
+"في حالة تفعيله، سيتم عرض فقط المحتوى الذي تم إنشاؤه أو تحميله بواسطة العضو "
+"المسجل حاليًا. وهذا يشمل المجلدات."
+
+#: modules/premium/admin-content.php:126
+msgid ""
+"When enabled, the content page will only show content created by or uploaded "
+"by the currently logged in user. This includes folders.."
+msgstr ""
+"في حالة تفعيله، سيتم عرض فقط المحتوى الذي تم إنشاؤه أو تحميله بواسطة العضو "
+"المسجل حاليًا. وهذا يشمل المجلدات .."
+
+#: modules/admin-overview.php:522
+msgid "Who can edit the overview page"
+msgstr "من يمكنه تحرير صفحة \"نظرة عامة\""
+
+#: modules/admin-woocommerce.php:80
+msgid "WooCommerce"
+msgstr "المتجر (ووكومرس)"
+
+#: modules/admin-woocommerce.php:175 modules/admin-woocommerce.php:258
+#: modules/admin-woocommerce.php:345 modules/admin-woocommerce.php:505
+#: modules/admin-woocommerce.php:664
+msgid "Woocommerce is required for this widget"
+msgstr "إضافة ووكومرس (Woocommerce) مطلوبة لتفعيل هذا الويدجت"
+
+#: modules/admin-overview.php:641
+msgid "WooCommerce is required to use this card"
+msgstr "إضافة ووكومرس (Woocommerce) مطلوبة لاستخدام هذه البطاقة"
+
+#: modules/premium/admin-overview-cards.php:352
+msgid "WordPress version"
+msgstr "نسخة ووردبريس"
+
+#: modules/admin-overview.php:602
+msgid "xlarge (1/1)"
+msgstr "العرض كامل (1/1)"
+
+#: modules/admin-overview.php:596
+msgid "xsmall (1/5)"
+msgstr "خمس العرض (1/5)"
+
+#: modules/admin-overview.php:595
+msgid "xxsmall (1/6)"
+msgstr "سدس العرض (1/6)"
+
+#: modules/premium/admin-menu-creator.php:322
+msgid "You don't have permission to delete this"
+msgstr "ليس لديك الصلاحية لإزالة هذا"

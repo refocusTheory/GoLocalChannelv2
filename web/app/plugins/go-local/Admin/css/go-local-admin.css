@@ -1,0 +1,36 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ html{
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background-color: #e5e5e5!important;
+ }
+body {
+     background: #e5e5e5;
+     height:100vh!important;
+    }
+#wpcontent, #wpfooter {
+     margin-left: 160px;
+     background: #e5e5e5;
+ }
+img {
+    border-style: none!important;
+}
+.card {
+    border: none;
+    max-width:none;
+}
+#wpwrap {
+    height: 100vh!important;
+
+}
+.ant-input-affix-wrapper .ant-input {
+     min-height: none!important;
+}
+#wpfooter {
+    position: initial;
+
+}
