@@ -34,3 +34,6 @@ img {
     position: initial;
 
 }
+table.fixed {
+    position: relative!important;
+}
