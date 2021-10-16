@@ -1,5 +1,5 @@
 <?php
-
+namespace GoLocal;
 /**
  * Fired during plugin activation
  *
