@@ -51,8 +51,8 @@ function deactivate_go_local() {
 	Go_Local_Deactivator::deactivate();
 }
 
-register_activation_hook( __FILE__, 'activate_go_local' );
-register_deactivation_hook( __FILE__, 'deactivate_go_local' );
+register_activation_hook( __FILE__, __NAMESPACE__ . '\activate_go_local' );
+register_deactivation_hook( __FILE__, __NAMESPACE__ .'\deactivate_go_local' );
 
 /**
  * The core plugin class that is used to define internationalization,
