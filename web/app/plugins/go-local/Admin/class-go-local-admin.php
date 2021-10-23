@@ -5,8 +5,7 @@ namespace GoLocal\Admin;
 use GoLocal\Admin\Activate as YesMan;
 use GuzzleHttp\Client as GuzzleClient;
 use Aws\S3\S3Client;
-//use golocal\Api;
-use  GoLocal\Go_Local;
+use GoLocal\Go_Local;
 
 
 /**
